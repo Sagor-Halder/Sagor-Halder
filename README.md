@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sagor-Halder
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Codig based project
+- 💞️ I’m looking to collaborate on Coding based project
 - 📫 https://medium.com/@sagorhalder_13454
 
 <!---
